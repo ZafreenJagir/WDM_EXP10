@@ -1,5 +1,7 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### DATE: 29/08/2025
+### REGISTER NUMBER : 212223040252
+### NAME : ZAFREEN J
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -27,4 +29,11 @@
 
 ### Output:
 
+<img width="1918" height="1001" alt="image" src="https://github.com/user-attachments/assets/586e7005-b93f-4c32-bfc5-9638a2c0ee65" />
+
+
+<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/9f31f9f3-a460-4287-9b49-22baa3c31462" />
+
+
 ### Result:
+Thus sentimental analysis for twitter data is executed successfully using rapidminer.
